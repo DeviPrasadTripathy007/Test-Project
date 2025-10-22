@@ -14,4 +14,4 @@ Just a Blank project to test the git and git-hub commands
 <br>-git status | (Gives status of the repository)
 <br>-git add <--File_name--> | (Add new file in the repository)
 <br>-git commit -m "Message" | (Message to show in the change log)
-<br>-
+<br>-git push origin main | (Upload the local repository changes to the github)
