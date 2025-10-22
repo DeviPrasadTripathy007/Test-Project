@@ -16,7 +16,9 @@ Just a Blank project to test the git and git-hub commands
 <br>-git commit -m "Message" | (Message to show in the change log)
 <br>-git push origin main | (Upload the local repository changes to the github(remote))
 <br>-git init | (Make the current directory as git repo)
-<br>-git remote add origin <-link->
-
+<br>-git remote add origin <-link-> | (add the local repo to the remote)
+<br>-git remote -v | (Verify the remote repository)
+<br>-git branch | (check the branch)
+<br>-git branch -M name | (Changes the name of the branch)
 # Concepts:
 <br>-
