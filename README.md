@@ -6,3 +6,7 @@ Just a Blank project to test the git and git-hub commands
 -History of changes are stored so that we can revert back if something went wrong or something taking more time to implrement and we want to continue it in the future or remove the feature entirely<br>
 -Collaboration
 <br><br>
+# Commands:
+-git config --global user.name "User_Name" | (set the global username)
+<br>-git config --global user.email "User@gmail.com"  | (set Global email address)
+<br>-git config --list | (prints all the info about the established user)
