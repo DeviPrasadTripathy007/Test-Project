@@ -20,5 +20,17 @@ Just a Blank project to test the git and git-hub commands
 <br>-git remote -v | (Verify the remote repository)
 <br>-git branch | (check the branch)
 <br>-git branch -M name | (Changes the name of the branch)
+<br>-git checkout -b feature1 | (Added new branch feature1 to the repo)
+<br>-git checkout <-name_of_branch-> | (Switch to the mentioned branch)
+<br>-git branch -d <-name of the branch-> | (Deletes the mentioned branch)
+<br>-git diff <-branch_name-> | (shows the difference between the current branch and mentioned branch)
+<br>-git merge <-branch_name-> | (merges the current and the mentioned branch)
+<br>-git pull origin main | (pulls the remote changes of branch to the current branch(pull from main to the current repository in the local))
+<br>-git reset | (resets the staged(added but not committed) changes)
+<br>-git reset <-file_name-> | (resets a certain staged(not committed) file without changing the other files)
+<br>-git reset HEAD~1 | (resets to the last commit)
+<br>-git reset <-commit_hash-> | (resets to the hash of the commit)
+<br>-git reset --hard <-commit_hash-> | (resets both remotely and locally)
+<br>-git log | (Shows the log of changes in the terminal)
 # Concepts:
 <br>-
