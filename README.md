@@ -15,3 +15,8 @@ Just a Blank project to test the git and git-hub commands
 <br>-git add <--File_name--> | (Add new file in the repository)
 <br>-git commit -m "Message" | (Message to show in the change log)
 <br>-git push origin main | (Upload the local repository changes to the github(remote))
+<br>-git init | (Make the current directory as git repo)
+<br>-git remote add origin <-link->
+
+# Concepts:
+<br>-
